@@ -27,7 +27,6 @@ As a user of the web application you will be able to:
 |----------------------|:---------------------------:|----------------------:|       
 |Page loads and the user is given a brief intro and encounters a form.  |User fills the form.    |The added quote is appended to the quotes list to the right. |
 |User encounters the upvote and downvote buttons.  |User clicks on either the upvote or the downvote buttons.  |The upvote and the downvote counts either increase or decrease in accordance to the user input.|
-|
 
 ## Working Live Application
 You can see the live working application through the this link. [Quote Wars](https://bryomajor.github.io/quotes/)
