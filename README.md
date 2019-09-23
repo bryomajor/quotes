@@ -1,4 +1,4 @@
-# Pair Programming Bot
+# Code Wars
 
 
 ## Description
